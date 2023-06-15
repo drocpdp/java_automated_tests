@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.*;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AppTwoTest
     extends TestCase
 {
     /**
@@ -18,7 +18,7 @@ public class AppTest
      *
      * @param testName name of the test case
      */
-    public AppTest( String testName )
+    public AppTwoTest( String testName )
     {
         super( testName );   
     }
